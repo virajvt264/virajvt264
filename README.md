@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viraj Thukrul</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajvt264&label=Profile%20views&color=0e75b6&style=flat" alt="virajvt264" /> </p>
 
-- 🔭 I’m currently working on CDAC **NCRB**
+- 🔭 I’m currently working on CDAC
 
 - 👨‍💻 All of my projects are available at [https://github.com/virajvt264](https://github.com/virajvt264)
 
